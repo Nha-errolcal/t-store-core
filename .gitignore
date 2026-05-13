@@ -7,6 +7,10 @@ node_modules/
 # env
 .env
 
+t-store-frontend-dashboard
+t-store-frontend-website
+t-store-backend
+
 # build output
 dist/
 build/
